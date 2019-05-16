@@ -11,6 +11,9 @@
 #maven ignore
 target/
 /.mvn/
+/mvnw
+/mvnw.cmd
+
 
 #eclipse ignore
 .settings/
